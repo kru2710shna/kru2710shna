@@ -43,6 +43,13 @@
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=google-cloud&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white)
 
+#### Featured Skills:
+<p align="left">
+  <img src="https://c8.alamy.com/comp/W4C7FW/machine-learning-thin-line-icon-creative-simple-design-from-artificial-intelligence-icons-collection-outline-machine-learning-icon-for-web-design-W4C7FW.jpg" alt="Machine Learning Icon" width="50" height="50"/>
+  <img src="https://c8.alamy.com/comp/2X4G6W0/large-language-models-llm-symbol-vector-illustration-eps10-2X4G6W0.jpg" alt="LLM Icon" width="50" height="50"/>
+  <img src="https://static.thenounproject.com/png/2312508-200.png" alt="Cloud Architecture Icon" width="50" height="50"/>
+</p>
+
 #### Other Tools:
 MERN, Scikit-Learn, NumPy, Pandas, OpenCV, Matplotlib, Keras, XGBoost, Apache, OpenShift, Tableau, Hadoop, AWS Redshift, DAX, MLFlow, DagHub, DVC, Time Management, Critical Thinking, Model Compression, Cloud Computing, Golang, Agile.
 
