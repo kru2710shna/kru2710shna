@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/krushnaa2710" target="blank"><img src="https://img.shields.io/twitter/follow/krushnaa2710?logo=twitter&style=for-the-badge" alt="krushnaa2710" /></a> </p>
 
-- 🔭 I’m currently working on [VideoTweetGram- BackEnd Project](https://github.com/kru2710shna/BackEnd_Project)
+- 🔭 I’m currently working on [IOS-APP DEV Repo](https://github.com/kru2710shna/IOS-AppDev)
 
-- 🌱 I’m currently learning **MERN + LLM**
+- 🌱 I’m currently learning **Swift + LLM**
 
-- 👯 I’m looking to collaborate on **Machine Learning**
+- 👯 I’m looking to collaborate on **Machine Learning** **Cloud Projects(AWS)**
 
-- 🤝 I’m looking for help with **BackEnd Collab**
+- 🤝 I’m looking for help with **BackEnd and Complex DBMS Collab**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kru2710shna](https://github.com/kru2710shna)
 
